@@ -28,33 +28,7 @@ The lab emphasizes practical SOC skills and threat analysis for real-world cyber
 ---
 
 ## Lab Walk-through
-
-<p align="center">
-Launch SOC Lab: <br/>
-<img src="INSERT_SCREENSHOT_HERE" height="80%" width="80%" alt="SOC Lab Start"/>
-<br /><br />
-
-Identify phishing email: <br/>
-<img src="INSERT_SCREENSHOT_HERE" height="80%" width="80%" alt="Email Analysis"/>
-<br /><br />
-
-Analyze email headers & URLs: <br/>
-<img src="INSERT_SCREENSHOT_HERE" height="80%" width="80%" alt="Header/URL Analysis"/>
-<br /><br />
-
-Respond to alerts in Splunk: <br/>
-<img src="INSERT_SCREENSHOT_HERE" height="80%" width="80%" alt="Splunk Alert Response"/>
-<br /><br />
-
-Escalate threats & document incidents: <br/>
-<img src="INSERT_SCREENSHOT_HERE" height="80%" width="80%" alt="Escalation & Documentation"/>
-<br /><br />
-
-Complete lab & review results: <br/>
-<img src="INSERT_SCREENSHOT_HERE" height="80%" width="80%" alt="Lab Completion"/>
-</p>
-
----
+https://imgur.com/a/GvkHbNz
 
 ## Key Takeaways
 

@@ -44,6 +44,9 @@ Purpose: To verify if the URL was flagged in the threat intelligence feeds and c
 Outcome: Verified that the URL matched a known malicious or blacklisted domain and that the threat was successfully blocked.
 
 ![Threat Analysis](https://i.imgur.com/JWCfNEE.png)
+
+4. Here is the final step and write up for this ticket.
+    ![Firewall Alert](https://i.imgur.com/hh3zBlH.png)
 ## Key Takeaways
 
 - Hands-on experience with SOC alert triage and incident response  

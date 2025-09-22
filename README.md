@@ -28,7 +28,8 @@ The lab emphasizes practical SOC skills and threat analysis for real-world cyber
 ---
 
 ## Lab Walk-through
-![Alert Queue Screenshot](https://i.imgur.com/GvkHbNz.png)
+![SOC Alert Queue](https://i.imgur.com/sRDZAFh.png)
+
 
 
 ## Key Takeaways

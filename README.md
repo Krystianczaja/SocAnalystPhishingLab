@@ -28,15 +28,20 @@ The lab emphasizes practical SOC skills and threat analysis for real-world cyber
 ---
 
 ## Lab Walk-through
-All incoming alerts are triaged in the SOC alert queue. Alerts are prioritized based on severity, potential impact, and likelihood of being malicious
+1. All incoming alerts are triaged in the SOC alert queue. Alerts are prioritized based on severity, potential impact, and likelihood of being malicious
 ![SOC Alert Queue](https://i.imgur.com/sRDZAFh.png)
 
 
-I start with the highest severity alert because it represents the greatest potential risk to the organization. This ensures critical threats are addressed immediately.  
+2. I start with the highest severity alert because it represents the greatest potential risk to the organization. This ensures critical threats are addressed immediately.  
 
 ![Selected Ticket Details](https://i.imgur.com/jc4yxkX.png)
+3. Action Taken: Opened the SIEM (Splunk/Chronicle) and looked up the URL associated with the alert.
 
+Purpose: To verify if the URL was flagged in the threat intelligence feeds and confirm the firewall correctly blocked it.
 
+Outcome: Verified that the URL matched a known malicious or blacklisted domain and that the threat was successfully blocked.
+
+![Threat Analysis](https://i.imgur.com/JWCfNEE.png)
 ## Key Takeaways
 
 - Hands-on experience with SOC alert triage and incident response  

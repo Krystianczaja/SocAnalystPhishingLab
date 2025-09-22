@@ -28,6 +28,7 @@ The lab emphasizes practical SOC skills and threat analysis for real-world cyber
 ---
 
 ## Lab Walk-through
+All incoming alerts are triaged in the SOC alert queue. Alerts are prioritized based on severity, potential impact, and likelihood of being malicious
 ![SOC Alert Queue](https://i.imgur.com/sRDZAFh.png)
 
 

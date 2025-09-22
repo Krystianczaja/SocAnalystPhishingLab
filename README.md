@@ -1,4 +1,4 @@
-#  SOC Analyst Simulator  – Phishing and Firewall ticket
+#  SOC Analyst Simulator  – Firewall and Phishing ticket
 
 
 ---

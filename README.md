@@ -1,4 +1,4 @@
-# TryHackMe SOC Analyst – Introduction to Phishing
+# TryHackMe SOC Analyst – Phishing and Firewall ticket
 
 ### [YouTube Demonstration / Lab Walkthrough](https://www.youtube.com/placeholder)
 

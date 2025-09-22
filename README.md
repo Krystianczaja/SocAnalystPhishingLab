@@ -1,4 +1,4 @@
-# TryHackMe SOC Analyst – Phishing and Firewall ticket
+#  SOC Analyst Simulator  – Phishing and Firewall ticket
 
 
 ---

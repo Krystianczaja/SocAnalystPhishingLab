@@ -33,9 +33,10 @@ All incoming alerts are triaged in the SOC alert queue. Alerts are prioritized b
 
 <img width="1523" height="601" alt="image" src="https://github.com/user-attachments/assets/b32a42b7-5ed6-4058-a71b-2d841716d77d" />
 
-I start with the highest severity alert because it represents the greatest potential risk to the organization. This ensures critical threats are addressed immediately.
+I start with the highest severity alert because it represents the greatest potential risk to the organization. This ensures critical threats are addressed immediately.  
 
-https://i.imgur.com/jc4yxkX.png
+![Selected Ticket Details](https://i.imgur.com/jc4yxkX.png)
+
 
 ## Key Takeaways
 

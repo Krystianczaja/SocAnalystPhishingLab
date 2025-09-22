@@ -1,13 +1,15 @@
 # TryHackMe SOC Analyst – Phishing and Firewall ticket
 
-### [YouTube Demonstration / Lab Walkthrough](https://www.youtube.com/placeholder)
 
 ---
 
 ## Description
-This lab simulates phishing attacks and allows the user to respond to alerts using a Security Operations Center (SOC) workflow.  
-Users practice analyzing emails, URLs, and alerts in a Splunk environment, escalate critical threats, and document incident response procedures.  
-The lab emphasizes practical SOC skills and threat analysis for real-world cybersecurity scenarios.
+This lab simulates a Security Operations Center (SOC) workflow using **two representative tickets**.  
+- **Ticket 1:** A firewall alert, where users investigate blocked external connections, confirm potential threats, and record the incident response.  
+- **Ticket 2:** A phishing alert, where users practice analyzing suspicious emails and URLs, verifying threats, and documenting their findings.  
+
+
+The lab emphasizes practical SOC skills, threat analysis, and proper incident documentation for real-world cybersecurity scenarios.
 
 ---
 

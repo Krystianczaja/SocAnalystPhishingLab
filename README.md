@@ -55,7 +55,7 @@ Outcome: Verified that the URL matched a known malicious or blacklisted domain a
 
 
 
-   1. Here is the second ticket which is a Phishing type. This alert was triggered by an inbound email contains one or more external links due to potentially suspicious characteristics. As part of the investigation, check firewall or proxy logs to determine whether any endpoints have attempted to access the URLs in the email and whether those connections were allowed or blocked.
+   5. Here is the second ticket which is a Phishing type. An inbound email alert was triggered due to suspicious characteristics, including the presence of external links. This type of alert is commonly associated with phishing attempts, where malicious actors try to trick users into clicking unsafe URLs.
    ![SIEM Ticket Details](https://i.imgur.com/uW5m5Io.png)
 ## Key Takeaways
 

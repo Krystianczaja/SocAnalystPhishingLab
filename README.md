@@ -17,7 +17,8 @@ The lab emphasizes practical SOC skills, threat analysis, and proper incident do
 
 - **Splunk**  
 - **Analyst VM / SOC Environment**  
-- **Email Analysis Tools**  
+- **Email Analysis Tools**
+- - **Alert Queue**  
  
 
 ---

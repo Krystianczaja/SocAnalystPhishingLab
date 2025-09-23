@@ -80,12 +80,7 @@ Verified that the user did not click on any of the links, and no endpoints attem
 
 ---
 
-## How to Run / Lab Instructions
 
-1. Enroll in TryHackMe SOC Analyst course.  
-2. Launch the lab environment (Analyst VM).  
-3. Follow lab instructions to identify and respond to phishing alerts.  
-4. Document your findings and escalate critical threats.  
 
 ---
 

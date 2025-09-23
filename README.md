@@ -65,6 +65,8 @@ Confirmed the email was received by the user.
 Verified that the user did not click on any of the links, and no endpoints attempted to access the suspicious URLs.
 ![TryDetectThis Analysis](https://i.imgur.com/fdQ9MB9.png)
 
+
+![Phishing Email in SIEM](https://i.imgur.com/swI4Y4R.png)
 ## Key Takeaways
 
 - Hands-on experience with SOC alert triage and incident response  

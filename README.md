@@ -38,11 +38,7 @@ The lab emphasizes practical SOC skills, threat analysis, and proper incident do
 2. I start with the highest severity alert because it represents the greatest potential risk to the organization. This ensures critical threats are addressed immediately.  
 
 ![Selected Ticket Details](https://i.imgur.com/jc4yxkX.png)
-3. Action Taken: Opened the SIEM (Splunk) and looked up the URL associated with the alert.
-
-Purpose: To verify if the URL was flagged in the threat intelligence feeds and confirm the firewall correctly blocked it.
-
-Outcome: Verified that the URL matched a known malicious or blacklisted domain and that the threat was successfully blocked.
+3. I Opened the SIEM (Splunk) and looked up the URL associated with the alert. I verified that the URL matched a known malicious or blacklisted domain and that the threat was successfully blocked.
 
 ![Threat Analysis](https://i.imgur.com/JWCfNEE.png)
 

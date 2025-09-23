@@ -48,6 +48,13 @@ Outcome: Verified that the URL matched a known malicious or blacklisted domain a
 4. Here is the final step and write up for this ticket.
     ![Firewall Alert](https://i.imgur.com/hh3zBlH.png)
 
+
+
+
+
+
+
+
    1. Here is the second ticket which is a Phishing type. This alert was triggered by an inbound email contains one or more external links due to potentially suspicious characteristics. As part of the investigation, check firewall or proxy logs to determine whether any endpoints have attempted to access the URLs in the email and whether those connections were allowed or blocked.
    ![SIEM Ticket Details](https://i.imgur.com/uW5m5Io.png)
 ## Key Takeaways

@@ -18,7 +18,7 @@ The lab emphasizes practical SOC skills, threat analysis, and proper incident do
 - **Splunk**  
 - **Analyst VM / SOC Environment**  
 - **Email Analysis Tools**  
-- **Python / Bash (optional scripting for analysis)**  
+ 
 
 ---
 
@@ -73,10 +73,7 @@ Verified that the user did not click on any of the links, and no endpoints attem
 
 ## Key Takeaways
 
-- Hands-on experience with SOC alert triage and incident response  
-- Practical phishing detection and threat analysis  
-- Familiarity with Splunk dashboards and alert queues  
-- Documentation of SOC procedures for escalated incidents  
+Through this lab, I reinforced essential SOC skills, including alert triage, prioritization, and investigation. I learned how to efficiently analyze phishing emails, URLs, and firewall alerts using a SIEM, verify threats safely in a virtual environment, and document incident response procedures accurately. The lab emphasized the importance of distinguishing true positives from false positives, escalating critical alerts when necessary, and maintaining proper documentation for compliance and auditing purposes. Overall, it provided hands-on experience in applying SOC workflows to real-world cybersecurity scenarios.
 
 ---
 

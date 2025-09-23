@@ -65,8 +65,12 @@ Confirmed the email was received by the user.
 Verified that the user did not click on any of the links, and no endpoints attempted to access the suspicious URLs.
 ![TryDetectThis Analysis](https://i.imgur.com/fdQ9MB9.png)
 
-
+7. To further investigate the phishing alert, I opened a secure virtual machine and tested the URL using TryDetectThis to check for malicious behavior. It came back clean.
 ![Phishing Email in SIEM](https://i.imgur.com/swI4Y4R.png)
+
+8. Here is the write up for ticket 2.
+ ![Final Ticket Verification](https://i.imgur.com/WU1EFSb.png)
+
 ## Key Takeaways
 
 - Hands-on experience with SOC alert triage and incident response  

@@ -57,6 +57,14 @@ Outcome: Verified that the URL matched a known malicious or blacklisted domain a
 
    5. Here is the second ticket which is a Phishing type. An inbound email alert was triggered due to suspicious characteristics, including the presence of external links. This type of alert is commonly associated with phishing attempts, where malicious actors try to trick users into clicking unsafe URLs.
    ![SIEM Ticket Details](https://i.imgur.com/uW5m5Io.png)
+
+6. Reviewed the alert details in the SIEM.
+
+Confirmed the email was received by the user.
+
+Verified that the user did not click on any of the links, and no endpoints attempted to access the suspicious URLs.
+![TryDetectThis Analysis](https://i.imgur.com/fdQ9MB9.png)
+
 ## Key Takeaways
 
 - Hands-on experience with SOC alert triage and incident response  
